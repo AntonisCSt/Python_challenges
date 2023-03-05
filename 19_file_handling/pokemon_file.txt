@@ -1,0 +1,30 @@
+Features
+The game has a near-fully open landscape rather than having set routes, similar to the Wild Area in Pokémon Sword and Shield.
+
+The player is able to choose from three Starter Pokémon found by Professor Laventon during his travels throughout regions, each originating from a different previous installment in the mainline Pokémon games. These Pokémon are Rowlet from the Alola region, Cyndaquil from the Johto region, and Oshawott from the Unova region. These Pokémon’s final evolutions receive new regional forms.
+
+The setting is that of the Hisui region, a region that would later come to be known as Sinnoh. The game's events take place many centuries ago when it was largely made up of untouched nature, there were little settlements, and the bond between people and Pokémon is still undeveloped.
+
+The player is part of the Galaxy Expedition Team, which is implied to eventually become Team Galactic.
+
+The player can participate in Survey Outings to document and learn about Pokémon of Hisui. They begin by preparing at base camps located around the region.
+
+The player can observe Pokémon behaviors and sneak up on Pokémon in order to catch them as an alternative to battling them. However, some Pokémon interact differently to encountering the player. Some may run away, some may approach the player in interest, and others may attack the player.
+
+The game features every Pokémon introduced in Generation IV, as well as a handful introduced after. However, a few Pokémon in the Sinnoh dex from Generations I-III are absent.
+Pokédex entries are now less straightforward to fill out. Rather than only having to catch a Pokémon once to register it, the player must now complete a variety of tasks involving catching or battling that species to increase each Pokémon’s research level. The full entry is filled out after increasing the research level to 10.
+Several new Pokémon are introduced; all except one are new evolutions for either existing Pokémon (such as Ursaluna and Wyrdeer) or for Hisuian forms (such as Sneasler and Overqwil).
+Dialga and Palkia both gain new Origin forms.
+
+
+There are new movement options such as dodging, which allows the Player to become temporarily invulnerable to attacks.
+Pokémon battles are now seamless, having no transition, and take place in real time. The player can activate this by throwing a Poké Ball containing one of their team members in front of a wild Pokémon.
+The turn system is reworked, with it now being possible for a player to have multiple turns in a row depending on their Pokémon's speed.
+The player's Pokémon can master moves and can use two variants of any mastered move: a Strong Style and an Agile Style. Strong Style moves increase the move's power but decrease the Pokémon's move speed while the Agile Style decreases the move's power but increases the Pokémon's move speed. Using a move in either Strong or Agile Style uses twice as much PP as using the normal version of the move.
+Just like previous installments, there is a day and night cycle. However, it is not based on the real-time clock and instead follows a pre-set amount of real time. Players can change the time of day by resting at any base camp.
+Regional forms first introduced in Pokémon Sun and Moon have returned, as well as new evolutions for previous Pokémon.
+Player characters can take damage from being attacked by wild Pokémon, falling, or drowning. If the Player takes took much damage from attacks or other injuries, they will black out, causing them to lose several items. These lost satchels can be found and returned by other players via the internet.
+Space-time Distortions may randomly appear in areas inhabited by Pokémon where rare Pokémon and items can temporarily be found inside.
+There are "Alpha" Pokémon, which are the same as normal Pokémon, but larger, have glowing red eyes, and are stronger overall. After catching these Alphas, they will remain large and powerful, but will lose the eye glow.
+There are events known as "Mass Outbreaks," which are periods of time where many of one Pokémon spawn in a certain area.
+In the Daybreak update, a new phenomenon called "Massive Mass Outbreaks" was added where several Mass Outbreaks occur at once for a short time similar to Space-time Distortions
